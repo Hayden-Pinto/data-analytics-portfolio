@@ -9,21 +9,21 @@ I build analytics projects that transform raw data into decision-ready insights.
 ### ⚽ Premier League KPI Dashboard
 SQL + Power BI project transforming multi-table football datasets into performance KPIs and interactive dashboards.
 
-➡ View project: [Premier League Analytics] (github.com/Hayden-Pinto/premier-league-kpi-dashboard)
+➡ View project: [Premier League Analytics](github.com/Hayden-Pinto/premier-league-kpi-dashboard)
 
 ---
 
 ### 🏍 Motorcycle Revenue Analysis
 SQL financial analysis of wholesale sales data segmented by product line, warehouse, and month.
 
-➡ View project: [Motorcycle Revenue Analysis] (github.com/Hayden-Pinto/motorcycle-revenue-analysis)
+➡ View project: [Motorcycle Revenue Analysis](github.com/Hayden-Pinto/motorcycle-revenue-analysis)
 
 ---
 
 ### 📊 Customer Churn Dashboard
 Power BI case study investigating telecom churn behaviour using DAX modelling and storytelling dashboards.
 
-➡ View project: [Customer Churn Analysis] (github.com/Hayden-Pinto/customer-churn-dashboard)
+➡ View project: [Customer Churn Analysis](github.com/Hayden-Pinto/customer-churn-dashboard)
 
 ---
 
