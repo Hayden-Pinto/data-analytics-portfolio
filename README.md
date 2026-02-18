@@ -9,7 +9,7 @@ I build analytics projects that transform raw data into decision-ready insights.
 ### ⚽ Premier League KPI Dashboard
 SQL + Power BI project transforming multi-table football datasets into performance KPIs and interactive dashboards.
 
-➡ View project: [Premier League Analytics](github.com/Hayden-Pinto/premier-league-kpi-dashboard)
+➡ View project: [Premier League KPI Analytics](github.com/Hayden-Pinto/premier-league-kpi-dashboard)
 
 ---
 
