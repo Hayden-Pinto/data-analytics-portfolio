@@ -1,30 +1,38 @@
 # data-analytics-portfolio
-Hayden Pinto — Data Analytics Portfolio
+# Hayden Pinto – Data Analytics Portfolio
 
-Entry-level data analyst specialising in SQL and Power BI analytics.
-Focused on KPI modelling, dashboard reporting, and business insights.
+Data analyst specialising in SQL, Power BI, and KPI modelling.
+I build analytics projects that transform raw data into decision-ready insights.
 
-Projects
-Premier League KPI Dashboard
+## Featured Projects
 
-SQL + Power BI analytics model transforming football datasets into performance KPIs
-👉 [View project](LINK HERE)
+### ⚽ Premier League KPI Dashboard
+SQL + Power BI project transforming multi-table football datasets into performance KPIs and interactive dashboards.
 
-Motorcycle Revenue Analysis
+➡ View project: [Premier League Analytics] (github.com/Hayden-Pinto/premier-league-kpi-dashboard)
 
-SQL financial reporting model calculating wholesale net revenue
-👉 [View project](LINK HERE)
+---
 
-Customer Churn Dashboard
+### 🏍 Motorcycle Revenue Analysis
+SQL financial analysis of wholesale sales data segmented by product line, warehouse, and month.
 
-Power BI churn analysis investigating customer retention patterns
-👉 [View project](LINK HERE)
+➡ View project: [Motorcycle Revenue Analysis] (github.com/Hayden-Pinto/motorcycle-revenue-analysis)
 
-Skills Demonstrated
+---
 
-SQL data modelling
+### 📊 Customer Churn Dashboard
+Power BI case study investigating telecom churn behaviour using DAX modelling and storytelling dashboards.
 
-Power BI dashboards
+➡ View project: [Customer Churn Analysis] (github.com/Hayden-Pinto/customer-churn-dashboard)
+
+---
+
+## Tools & Technologies
+SQL • Power BI • DAX • Excel • R • Data Modelling • KPI Analytics
+
+---
+
+📫 Contact: pinto.hayden@gmail.com
 
 KPI reporting
 
