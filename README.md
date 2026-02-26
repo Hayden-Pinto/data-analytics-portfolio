@@ -1,41 +1,130 @@
-# data-analytics-portfolio
-# Hayden Pinto – Data Analytics Portfolio
+# 👋 Hayden Pinto  
+### Data Analyst | SQL | Power BI | Data Transformation | KPI Engineering
 
-Data analyst specialising in SQL, Power BI, and KPI modelling.
-I build analytics projects that transform raw data into decision-ready insights.
+Welcome to my GitHub portfolio.
 
-## Featured Projects
+I am a data-focused graduate with a strong analytical background and hands-on experience transforming raw datasets into structured insights. My work demonstrates end-to-end data workflows — from raw SQL transformation to dashboard visualisation and KPI engineering.
 
-### ⚽ Premier League KPI Dashboard
-SQL + Power BI project transforming multi-table football datasets into performance KPIs and interactive dashboards.
-
-➡ View project: [Premier League KPI Analytics](github.com/Hayden-Pinto/premier-league-kpi-dashboard)
+I am particularly interested in roles involving data analysis, business intelligence, financial analytics, and data-driven decision making.
 
 ---
 
-### 🏍 Motorcycle Revenue Analysis
-SQL financial analysis of wholesale sales data segmented by product line, warehouse, and month.
+## 📊 Portfolio Projects
 
-➡ View project: [Motorcycle Revenue Analysis](github.com/Hayden-Pinto/motorcycle-revenue-analysis)
-
----
-
-### 📊 Customer Churn Dashboard
-Power BI case study investigating telecom churn behaviour using DAX modelling and storytelling dashboards.
-
-➡ View project: [Customer Churn Analysis](github.com/Hayden-Pinto/customer-churn-dashboard)
+Below are three fully documented analytical projects showcasing SQL development, data modelling, and Power BI dashboard creation.
 
 ---
 
-## Tools & Technologies
-SQL • Power BI • DAX • Excel • R • Data Modelling • KPI Analytics
+### 📉 1. Customer Churn Analysis (Power BI)
+
+**Objective:**  
+Identify churn drivers and quantify customer retention risk.
+
+**Key Skills Demonstrated:**
+- Data modelling in Power BI  
+- DAX measure engineering  
+- KPI design and validation  
+- Customer segmentation analysis  
+- Business-focused dashboard storytelling  
+
+**Highlights:**
+- Built reusable DAX measures
+- Designed interactive executive dashboards
+- Identified behavioural churn indicators
 
 ---
 
-📫 Contact: pinto.hayden@gmail.com
+### 🏍 2. Motorcycle Parts Sales Analysis (SQL + Power BI)
 
-KPI reporting
+**Objective:**  
+Analyse sales performance and profitability drivers.
 
-Business analytics
+**Key Skills Demonstrated:**
+- SQL querying and aggregation  
+- Revenue and profit calculations  
+- Data cleaning and transformation  
+- Business performance reporting  
 
-Data storytelling
+**Highlights:**
+- Engineered revenue and margin KPIs
+- Structured raw sales data into reporting-ready outputs
+- Delivered executive-style visual dashboards
+
+---
+
+### ⚽ 3. Football KPI Analysis (SQL + Power BI)
+
+**Objective:**  
+Transform match-level data into structured team performance KPIs.
+
+**Key Skills Demonstrated:**
+- Multi-step SQL transformation pipeline  
+- Data normalisation and aggregation  
+- KPI calculation logic  
+- Performance ranking and analytical modelling  
+
+**Highlights:**
+- Converted match-level data into team-level analytics
+- Engineered goal difference, points logic, and possession metrics
+- Built a structured KPI table used to power interactive dashboards
+
+---
+
+## 🧠 Technical Skillset
+
+**Languages & Querying**
+- SQL  
+- DAX  
+
+**Data & BI Tools**
+- Power BI  
+- Excel  
+- Power Query  
+
+**Core Competencies**
+- Data cleaning & transformation  
+- KPI engineering  
+- Dashboard development  
+- Data validation & quality control  
+- Insight communication for stakeholders  
+
+---
+
+## 🔍 What You’ll Find in Each Repository
+
+Each project includes:
+
+- Clearly structured SQL queries  
+- Documented transformation steps  
+- Dashboard screenshots  
+- Defined KPIs and calculation logic  
+- Business-focused README documentation  
+
+All work is designed to reflect professional standards in naming conventions, documentation, and logical workflow structuring.
+
+---
+
+## 🚀 Professional Focus
+
+I am particularly interested in opportunities involving:
+
+- Data analysis & business intelligence  
+- Financial or treasury analytics  
+- Performance management  
+- CRM & operational reporting  
+- Data-driven strategic decision making  
+
+I am motivated by roles where data is not just analysed — but transformed into clear, actionable insight.
+
+---
+
+## 📫 Contact
+
+If you would like to discuss my work or potential opportunities, feel free to connect:
+
+📧 pinto.hayden@gmail.com  
+📍 London, UK  
+
+---
+
+*Thank you for taking the time to explore my portfolio.*
